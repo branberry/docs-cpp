@@ -1,7 +1,7 @@
 MongoDB C++ Driver Documentation
 ====================================
 
-This repository contains documentation for C++, the MongoDB driver
+This repository contains documentation for C++, the MongoDB driver test
 for synchronous C++ applications.
 
 
